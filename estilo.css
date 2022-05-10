@@ -1,0 +1,199 @@
+body{
+    background-color: #EEEEEE;
+}
+.contenedor{
+    margin-top: 20px;
+    background-color: white;
+    height: 500px;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+.img2{
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+
+}
+.texto{
+    margin: 0 auto;
+    color: #CCD1E4;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.nombre{
+    font-size: large;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+
+.nombre1{
+    color:gray;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.btn{
+    margin-top: 10px;
+    border-radius: 10px;
+    background: linear-gradient(blue 5%, magenta 70%,pink); 
+    border: 2px solid magenta;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.btn2{
+    margin-top: 10px;
+    border-radius: 10px;
+    background: linear-gradient(blue 5%, magenta 70%,pink);
+    border: 2px solid magenta; 
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.icon{
+    margin-top: 20px;
+   margin-left: 30px;
+   margin-right: 10px;
+   
+}
+.img1{
+margin-top: 0;
+    width: 255px;
+    height: 100px;
+
+}
+
+.card-body{
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.chica1{
+    width: 100px;
+    height: 150px;
+    margin-left: 20px;
+    border-radius: 10%;
+}
+
+.btn5{
+  padding: 0px;
+}
+
+.clase{
+    margin-right: 20px;
+}
+
+.imagen{
+    margin-left: 20px;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+h5{
+    margin: 20px;
+}
+.btn-1{
+   width: 40px;
+   height: 40px;
+    margin-top: 10px;
+    border-radius: 50px;
+    margin-left: 10px;
+    background-color: #E8F9FD;
+}
+
+.btn-2{
+    width: 40px;
+    height: 40px;
+     margin-top: 10px;
+     border-radius: 50px;
+     margin-left: 50px;
+     background-color: #E8F9FD;
+ }
+
+ .perfil{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 85px;
+    top: 50px;
+    border: 3px solid white;
+}
+
+.paisaje{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    border-radius: 5%;
+    height: 75px;
+    }
+
+    a{
+        margin-left: 2px;
+        text-decoration: none;
+        color:black;
+    }
+
+    .btn5{
+        margin-top: 30px;
+        width: 200px;
+        height: 30px;
+        border-radius: 5px;
+        background-color: #EFFFFD;
+    }
+
+    .perfil1{
+        margin: 6px;
+        border: 3px solid white;
+        width: 60px;
+        height: 60px;
+        border-radius: 100px;
+    }
+
+  .btn6{
+      margin-left: 10px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      border: white;
+      width: 75px;
+      height: 30px;
+      background-color: #CCD1E4;
+
+  } 
+
+  .btn7{
+      background-color: #f9d0d0;
+      width: 75px;
+      height: 30px;
+      border-radius: 5px;
+  }
+
+  .btn8{
+    background-color: #b2fce8;
+    width: 75px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn9{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: white;
+    width: 200px;
+    height: 30px;
+    background-color: #CCD1E4;
+
+}
+
+.btn10{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: white;
+    width: 50px;
+    height: 30px;
+    background-color: #CCD1E4;
+
+}
